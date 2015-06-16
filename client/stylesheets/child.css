@@ -1,0 +1,54 @@
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.h1,
+.h2,
+.h3,
+.h4,
+.h5,
+.h6 {
+    font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 300;
+}
+
+body { padding-top: 100px; }
+
+.navbar-brand {
+	font-weight: 300;
+	color: #fff !important;
+}
+
+.navbar-inverse {
+	background-color: rgba(44, 62, 80, 0.9);
+	border: none;
+	padding: 20px;
+}
+
+.login-padding {
+	padding: 10px 20px;
+	margin-left: 10px;
+}
+
+.index {
+  	text-align: center;
+  	background-color: rgba(255,255,255,.9);
+  	min-height: 746px;
+}
+
+#intro-text {
+	margin-top: 100px;
+}
+
+.form-padding {
+	padding: 15px;
+	margin-top: 20px;
+
+}
+
+.book-cover {
+	max-height: 400px;
+}
