@@ -22,6 +22,10 @@ body { padding-top: 100px; }
 	color: #fff !important;
 }
 
+.center {
+	margin: 20 auto;
+}
+
 .navbar-inverse {
 	background-color: rgba(44, 62, 80, 0.9);
 	border: none;
@@ -51,4 +55,16 @@ body { padding-top: 100px; }
 
 .book-cover {
 	max-height: 400px;
+}
+
+.thumbnail{
+    width: 250px;
+    height: 350px;
+    overflow: auto;
+}
+
+.thumbnail img {
+    width: 150px;
+    height: 250px;
+    overflow: auto;
 }
